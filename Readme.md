@@ -9,15 +9,13 @@
 <br>
 <br>
 
-[Live Demo](https://name-conversionbyzee.netlify.app)
+[Live Demo](https://zeeshanbasiccount.netlify.app/)
 
 
-### - Stack Use
+### - Stack Uses
 Basic Counter Using HTML , CSS , JavaScript
  <br> 
 
 
-<br>
-<br>
-<br>
+
 
